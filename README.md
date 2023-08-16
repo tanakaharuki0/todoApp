@@ -1,2 +1,3 @@
 # todoApp
-reactとnext.jsの練習として簡易的なtodoアプリを作成する。
+
+react と next.js の練習として簡易的な todo アプリを作成する。
